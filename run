@@ -1,0 +1,4 @@
+#!/bin/sh
+
+drifblim beer.tal beer.rom
+uxncli beer.rom
